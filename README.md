@@ -366,21 +366,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## 📂 Project Structure
 
-```text
-Zomato-Restaurant-Clustering-Unsupervised-ML/
-│
-├── Zomato_Restaurant_Clustering_Unsupervised_ML.ipynb
-├── Zomato Restaurant reviews.csv
-├── Zomato Restaurant names and Metadata.csv
-├── README.md
-│
-└── images/
-    ├── EDA_Charts/
-    ├── Sentiment_Analysis/
-    └── Clustering_Results/
-```
 
 > Add the CSV datasets to the repository only if their licensing/redistribution terms allow it. Otherwise, provide instructions for obtaining the datasets.
 
